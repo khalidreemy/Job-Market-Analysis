@@ -24,3 +24,35 @@ The goal is to identify the most in-demand **skills, tools, and sectors** to pro
 - Industry-wise hiring distribution.
 
 ## 📂 Repository Structure
+📦 job-market-analysis
+┣ 📜 notebook.ipynb # Main analysis notebook
+┣ 📜 requirements.txt # Dependencies
+┣ 📜 README.md # Project documentation
+┗ 📂 data # Sample datasets (CSV/Excel)
+
+
+## 🚀 How to Run
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/khalidreemy/job-market-analysis.git
+
+## 1- Install dependencies:
+
+pip install -r requirements.txt
+
+
+## 2- Open Jupyter Notebook:
+
+jupyter notebook notebook.ipynb
+
+## 📈 Future Work
+
+Add more datasets from different countries.
+
+Use NLP models to extract skills from unstructured job postings.
+
+Build an interactive dashboard using Plotly/Dash.
+
+👤 Author: Khalid Alreemy
+🔗 LinkedIn: https://www.linkedin.com/in/khalid-alreemy-668514192/
+🔗 GitHub: https://github.com/khalidreemy/
