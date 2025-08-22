@@ -1,5 +1,6 @@
 
-# Job Market Analysis – AI & Data Roles in the Middle East
+# Job Market Analysis
+# AI & Data Roles in the Middle East
 
 ## 📌 Project Overview
 This project analyzes job postings related to **AI, Data Science, and Analytics** in the Middle East (with a focus on Saudi Arabia).  
